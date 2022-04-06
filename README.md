@@ -16,6 +16,6 @@ chunyuye
 Attendance
 ==========
 
-my andrewID: ronghu
+my andrewID in new b: ronghu
 
 andrewID: chunyuye
