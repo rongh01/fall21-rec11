@@ -16,6 +16,6 @@ chunyuye
 Attendance
 ==========
 
-andrewID: ronghu
+my andrewID: ronghu
 
 andrewID: chunyuye
